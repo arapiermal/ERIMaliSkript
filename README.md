@@ -51,6 +51,7 @@ Database manager
 - Insert rows in the tables (the values have to match the DataType)
 - Manipulate the data
 - Show data based on different things
+  - Show all of the data of the table
   - Column & Value
   - etc.
-//Serializable not yet
+- //Serializable not yet, Save & Load
