@@ -1,9 +1,8 @@
 # ERIMaliSkript
 New pseudo programming languages in Java
 
-JavaFX powered GUI compiler
-Save and Load .mskript files
-
+### JavaFX powered GUI compiler
+### Save and Load .mskript files
 (The syntax of the following programming languages can be easily changed, since they use an Enum for it)
 # MaliSkript
 Features
