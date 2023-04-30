@@ -28,20 +28,20 @@ Done through only one line of code: file numero book.txt
 - Index starts from 1 (More intuitive for the layman)
 - Access them like #myArray@index (no need for [][][][][][])
 
-#### functions, for and if don't need (){}(){}(){}
+### functions, for and if don't need (){}(){}(){}
 ---> 
 ---> To signify their end simply write 'kaq'
-### Functions: easy
-- funksion test a b
+#### Functions: easy
+funksion test a b
 printo vepro a + b
 kaq
 thirr test 2 3
 ~ 5 is the result
---> For cycle: simplified
+#### For cycle: simplified
 - per 1 deri 10 ==> for(int i = 1; i <= 10; i ++)
 - per a deri b ==> for(int i = a; i <= b; i++) (nese a < b)
 - per 10 deri 1 ==> for(int i = 10; i >= 1; i--)
-### If
+#### If
 ----------------------------------------------
 
 
