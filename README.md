@@ -41,14 +41,16 @@ thirr test 2 3
 - per a deri b ==> for(int i = a; i <= b; i++) (nese a < b)
 - per 10 deri 1 ==> for(int i = 10; i >= 1; i--)
 #### If
-----------------------------------------------
-
-
-
-
+---------------------------------------------------
 # MyERI
 Ergonomical Resource Introspector
 Database manager
 
-
+- Create tables
+- Create columns in the tables with a certain name and DataType
+- Insert rows in the tables (the values have to match the DataType)
+- Manipulate the data
+- Show data based on different things
+-- Column & Value
+-- etc.
 //Serializable not yet
