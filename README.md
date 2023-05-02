@@ -35,11 +35,11 @@ Space button and Enter (New Line) is your friend
 
 ---> To signify their end simply write 'kaq'
 #### Functions: easy
-funksion test a b
-printo vepro a + b
-kaq
-thirr test 2 3
-~ 5 is the result
+funksion test a b  
+printo vepro a + b  
+kaq  
+thirr test 2 3  
+~ 5 is the result  
 #### For cycle: simplified
 - per 1 deri 10 ==> for(int i = 1; i <= 10; i ++)
 - per a deri b ==> for(int i = a; i <= b; i++) (nese a < b)
