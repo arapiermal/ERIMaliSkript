@@ -41,6 +41,12 @@ thirr test 2 3
 - per a deri b ==> for(int i = a; i <= b; i++) (nese a < b)
 - per 10 deri 1 ==> for(int i = 10; i >= 1; i--)
 #### If
+- Simplified if else {if - nqs (Ne qofte se); else - pn (perndryshe)}
+- nqs a < b
+  printo E vertete
+  pn
+  printo e gabuar
+  kaq
 ---------------------------------------------------
 # MyERI
 Ergonomical Resource Introspector
