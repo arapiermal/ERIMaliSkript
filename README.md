@@ -7,7 +7,9 @@ New pseudo programming languages in Java
 # MaliSkript
 Features
 Are you tired of Java and its bureaucracy, and would you like some programming in Albanian?
+
 Near zero punctuation marks , ; and parentheses {}[]() needed
+
 Space button and Enter (New Line) is your friend
 
 
@@ -28,7 +30,9 @@ Done through only one line of code: file numero book.txt
 - Access them like #myArray@index (no need for [][][][][][])
 
 ### functions, for and if don't need (){}(){}(){}
+
 ---> 
+
 ---> To signify their end simply write 'kaq'
 #### Functions: easy
 funksion test a b
@@ -43,9 +47,13 @@ thirr test 2 3
 #### If
 - Simplified if else {if - nqs (Ne qofte se); else - pn (perndryshe)}
 - nqs a < b
+  
   printo E vertete
+  
   pn
+  
   printo e gabuar
+  
   kaq
 ---------------------------------------------------
 # MyERI
