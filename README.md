@@ -14,8 +14,8 @@ Space button and Enter (New Line) is your friend
 
 
 ### File
-- Epic command to count how many times do the words of a text file repeat and show them (Using a HashMap for high efficiency)
-Done through only one line of code: file numero book.txt
+- Epic command to count how many times do the words of a text file repeat and show them (Using a HashMap for high efficiency)  
+  Done through only one line of code: file numero book.txt
 
 ### Variables
 #### Equation solver (Variables can get into it)
