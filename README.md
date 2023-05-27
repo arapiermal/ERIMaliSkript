@@ -64,4 +64,5 @@ Database manager
   - Show all of the data of the table
   - Column & Value
   - etc.
-- //Serializable not yet, Save & Load
+- Save & Load
+  - from CSV
