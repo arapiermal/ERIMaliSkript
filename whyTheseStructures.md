@@ -18,4 +18,8 @@ Since the values are being pushed and popped in a FILO (First in Last out) way
 For the compilation errors  
 Can be used as both a stack (FILO/LIFO) and a queue (FIFO/LILO)  
 The user chooses how he wants to see the errors, from first to last or last to first  
-  
+
+###################
+Indirectly  
+- Set  
+The keySet of HashMaps
