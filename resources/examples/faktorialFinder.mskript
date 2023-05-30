@@ -1,0 +1,9 @@
+var i 0
+var j 1
+var a 1
+var b 10
+per a deri b
+i = i + 1
+j = i * j
+printo Faktoriali i $i eshte $j
+kaq

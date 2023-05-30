@@ -1,0 +1,10 @@
+db krijo databaza
+db ekz
+krijo tabele test
+shto kolona test Emri VARCHAR Mbiemri VARCHAR Mosha INT kaq
+shto rreshta test Ermal, Arapi, 20; Arjon, Arapi, 10 kaq
+hiq rreshta test 1 kaq
+hiq kolona test Emri kaq
+shfaq gjithcka nga test
+
+stop

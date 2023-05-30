@@ -1,0 +1,16 @@
+db krijo databaza
+db ekz
+krijo tabele familja
+shto kolona familja Emri VARCHAR Mbiemri VARCHAR VitiLindjes INT kaq
+shto rreshta familja Ermal, Arapi, 2003;
+Arjon, Arapi, 2012;
+Mimoza, Arapi, 1975;
+Agron, Arapi, 1973 kaq
+shfaq gjithcka nga familja
+stop
+
+var i 0
+per 0 deri 3
+	i = db familja VitiLindjes ind1
+	printo $i
+kaq

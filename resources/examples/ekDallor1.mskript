@@ -1,0 +1,14 @@
+var a 1
+var b -10
+var c 24
+printo Ekuacioni $a x^2 + $b x + $c
+var dallori vepro b^2 - 4*a*c
+printo Dallori eshte $dallori
+nqs dallori > 0
+	var x1 = (0 - b + 2_dallori )/(2*a)
+	var x2 = (0 - b - 2_dallori )/(2*a)
+	printo Rrenja e pare $x1
+	printo Rrenja e dyte $x2
+pn
+	printo Me dallor negativ veshtir puna
+kaq

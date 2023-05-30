@@ -1,0 +1,8 @@
+arr t 1 2 3 4
+#t += 5 6
+printo #t
+#t -= 1 2
+printo #t
+per 1 deri 4
+printo #t@ind1
+kaq

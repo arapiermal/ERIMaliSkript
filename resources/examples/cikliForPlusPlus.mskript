@@ -1,0 +1,19 @@
+var i 0
+per 1 deri 10
+	i ++
+kaq
+printo i = $i
+per 10 deri 1
+	i --
+kaq
+printo i = $i
+var y = i+3
+per i deri y
+	printo hi $ind1
+kaq
+per 1 deri 2
+	printo $i
+	per 1 deri 3
+		i += 10
+	kaq
+kaq

@@ -1,0 +1,14 @@
+arr test 2 4 6 8 10
+~ e gjitha
+printo #test
+~ me indeks
+printo #test@1
+~ me variabel
+var i 5
+printo #test@i
+i = i - 1
+printo cikel for
+per 4 deri 1
+printo #test@i
+i = i - 1
+kaq

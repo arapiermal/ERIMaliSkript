@@ -1,0 +1,14 @@
+krijo tabele familja
+shto kolona familja Emri VARCHAR Mbiemri VARCHAR VitiLindjes INT kaq
+shto rreshta familja Ermal, Arapi, 2003;
+Arjon, Arapi, 2012;
+Mimoza, Arapi, 1975;
+Agron, Arapi, 1973 kaq
+shfaq gjithcka nga familja
+
+krijo tabele shkolla
+shto kolona shkolla Emri VARCHAR Mbiemri VARCHAR ID INT kaq
+shto rreshta shkolla Ermal, Arapi, 1;
+Emerson, Shima, 2;
+Anteo, Nebo, 3 kaq
+shfaq gjithcka nga shkolla

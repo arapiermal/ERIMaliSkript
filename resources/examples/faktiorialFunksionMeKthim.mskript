@@ -1,0 +1,11 @@
+funksion faktiorial n
+var f 1
+per 2 deri n
+f *= ind1
+kaq
+kthe f
+kaq
+
+var i 0
+i = thirr faktiorial 10
+printo $i
